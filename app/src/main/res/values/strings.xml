@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="trening_klasyczny">Trening domowy klasyczny</string>
+    <string name="trening_yogi">Trening yogi</string>
+</resources>
